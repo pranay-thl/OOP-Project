@@ -1,0 +1,31 @@
+#header {
+    background-color:#600000 ;
+    color:yellow;
+    text-align:center;
+    padding:5px;
+}
+body {
+   
+    background-image: url("data/b.jpeg");
+	background-size: cover; 
+}
+#nav {
+    line-height:50px;
+    background-color:bisque;
+    height:535px;
+    width:150px;
+    float:left;
+    padding:2px; 
+}
+#section {
+    width:800px;
+    float:left;
+    padding:20px; 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}

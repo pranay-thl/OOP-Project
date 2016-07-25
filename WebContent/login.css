@@ -1,0 +1,6 @@
+body {
+    background-color: lightblue;
+    background-image: url("data/1.jpg");
+	padding:175px;
+  background-size: cover
+}
